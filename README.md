@@ -1,1 +1,1 @@
-# set_matrix_zeroes
+The setZeroes function is a solution to the problem of setting entire rows and columns to zero in a 2D matrix whenever a zero is encountered in the matrix. This implementation is designed to efficiently modify the input matrix in place, ensuring that the original data structure is updated without requiring additional space for another matrix.
